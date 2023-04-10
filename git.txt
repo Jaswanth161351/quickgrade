@@ -3,4 +3,3 @@ maven
 tomcat
 jenkins
 ansible
-jira
